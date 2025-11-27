@@ -18,7 +18,7 @@ To revert to the original configuration after a scan, run: `Nessus-Post-Scan.bat
 - Disables UAC (User Account Control)
 - Enable WMI Service
 
-## Testing and Debugging
+## Additional Guide on Testing and Debugging Nessus Access
 
 #### Test the IPC$ share:
 ```
